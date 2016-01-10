@@ -31,5 +31,6 @@ return $new_jpg;
         
         echo 'Bonjour :)';
         
+        echo 'Love you';
  
 ?>
