@@ -29,7 +29,7 @@ return $new_jpg;
         $next_date=$today + $month*30*24*60*60;
         echo date("F Y",$next_date);
         
-        echo 'Привет :)';
+        echo 'Привет!';
         
         echo 'Love you';
         echo'test';
